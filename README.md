@@ -3,7 +3,7 @@ DefenderScanGUI is a lightweight graphical front-end for Microsoft Defender Anti
 
 ---
 
-📖 Features
+# 📖 Features
 ✅ GUI wrapper for Windows Defender scans
 ✅ Supports Quick, Full, and Defination Updates
 ✅ Displays real-time scan progress and results
@@ -17,12 +17,16 @@ DefenderScanGUI is a lightweight graphical front-end for Microsoft Defender Anti
  - Threat Summary: Detailed threat information with counts
  - Automatic Cleanup: Proper resource management
 
-🛠️ Requirements:
+---
+
+# 🛠️ Requirements:
 - Windows 10/11 with Windows Defender
 - PowerShell 5.1 or later
 - .NET Framework (usually pre-installed)
 
-💡 Usage Instructions:
+---
+
+# 💡 Usage Instructions:
  - Download the File and Save as DefenderGUI.ps1
  - Run as Administrator (recommended): powershellPowerShell -ExecutionPolicy Bypass -File "DefenderGUI.ps1"
    Or run normally with limited features: powershell.\DefenderGUI.ps1
